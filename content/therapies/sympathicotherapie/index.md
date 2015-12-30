@@ -39,3 +39,8 @@ La **sympathicothérapie** réalise le traitement d’élection de toutes path
 </div>
 
 Le nombre de séances peut varier de 1 à 12 suivant les cas cliniques. Les fréquences de traitement sont de 1 à 2 par semaine.
+
+<p style="text-align: center;">
+<img class="aligncenter" alt="topographie interne" src="./images/topographie-interne.jpg" width="671" height="547" />
+</p>
+

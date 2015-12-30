@@ -24,7 +24,7 @@ La veinologie est une méthode thérapeutique globale destinée à traiter les t
 </ul>
 </div>
 
-<img class="alignright size-full wp-image-336" alt="veinologie" src="./images/veinologie.jpg" width="150" height="252" />La veinologie permet d’avoir réellement des effets curatifs visibles et durables. Le traitement comprend :
+<img class="alignright" alt="veinologie" src="./images/veinologie.jpg" width="150" height="252" />La veinologie permet d’avoir réellement des effets curatifs visibles et durables. Le traitement comprend :
 
   * Bilan de l’insuffisance veineuse et les solutions préventives et curatives.
   * Prescription en phytothérapie.
@@ -40,3 +40,7 @@ La veinologie est une méthode thérapeutique globale destinée à traiter les t
   * Activation de la fibrolyse des thromboses.
   * Renforcement des fibres musculaires de la média veineuse par stimulation des récepteurs nerveux.
   * Accélération de la perfusion d’oxygène et de glycogène.
+
+<p style="text-align: center;">
+<img class="aligncenter" alt="veinologie" src="./images/sys-circulatoire-veinologie.jpg" width="413" height="867" />
+</p>

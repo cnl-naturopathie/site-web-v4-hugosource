@@ -18,3 +18,9 @@ Les essences spagyriques renforcent la vitalité de l’organisme en général e
 <a href="./pdf/depliant.pdf" target="_blank">Plantes et exemple de leurs applications traditionnelles (documents PDF)</a>
 
 <a href="./images/cycle5elements.gif" target="_blank">Spagyrie Phylak et le cycle des 5 éléments</a>
+
+
+<p style="text-align: center;">
+<img class="aligncenter" alt="..." src="./images/spagyrie.jpg" width="671" height="547" />
+</p>
+

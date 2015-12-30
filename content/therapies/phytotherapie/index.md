@@ -18,3 +18,7 @@ La conjonction des retombées de l’abus des médicaments chimiques, des couran
 La phytothérapie n’est donc pas seulement la méthode de soins de nos ancêtres ; c’est une connaissance complexe des propriétés des plantes, des méthodes de cueillettes, de préparations, de posologie de prescriptions. Sans prétendre être universelle, elle peut répondre à la nécessité de soins pour pratiquement toutes nos maladies. Elle mérite bien sa place aux côtés de l’homéopathie, de l’aromathérapie et de l’oligothérapie, comme elle est un des piliers de toutes les médecines, chinoise, ayurvédique, anthroposophique, etc.
 
 La phytothérapie confronte l’individu à son environnement vivant.
+
+<p style="text-align: center;">
+<img class="aligncenter" alt="..." src="./images/phytotherapie.jpg" width="750" height="500" />
+</p>

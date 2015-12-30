@@ -17,7 +17,7 @@
 				<div class="col-xs-12 col-sm-4" style="margin: 10px 0 15px">
 					{{ if .NextInSection }}
 						<a rel="next" href="{{ .NextInSection.Permalink }}" id="next">
-							&larr; <span class="nav-title nav-title-next">{{ .NextInSection.Params.thumbnail.desc }}</span>
+							&larr; <span class="nav-title nav-title-next">{{ .NextInSection.Params.thumbnail.desc | safeHTML }}</span>
 						</a>
 					{{ end }}
 				</div>
@@ -27,7 +27,7 @@
 				<div class="col-xs-12 col-sm-4" style="margin: 10px 0 15px">
 					{{ if .PrevInSection }}
 						<a rel="prev" href="{{ .PrevInSection.Permalink }}" id="prev">
-							<span class="nav-title nav-title-prev">{{ .PrevInSection.Params.thumbnail.desc }}</span> &rarr;
+							<span class="nav-title nav-title-prev">{{ .PrevInSection.Params.thumbnail.desc | safeHTML }}</span> &rarr;
 						</a>
 					{{ end }}
 				</div>
