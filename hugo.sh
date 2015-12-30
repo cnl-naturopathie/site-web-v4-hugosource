@@ -10,7 +10,6 @@ github)
         --destination=$OUT_PATH                                         \
         --baseURL="http://cnl-naturopathie.ch/"
     cp README.md $OUT_PATH
-    cd $OUT_PATH
     if [ -z "$2" ]
     then
         echo "##########"
@@ -18,11 +17,17 @@ github)
         COMMENT="Pas de commit sans commentaires !"
     else
         COMMENT=$2
+        # Mise à jour du dépôt “site-web-v4”
+        git add .
+        git commit -m "$COMMENT"
+        git push
+        # Mise à jour du dépôt “site-web-v4-hugofiles”
+        cd $OUT_PATH
         git add .
         git commit -m "$COMMENT"
         git push
     fi
-    echo "COMMENT = $COMMENT"
+    echo "COMMENTAIRE = $COMMENT"
     ;;
 
 hostpapa)
