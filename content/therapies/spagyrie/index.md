@@ -21,6 +21,6 @@ Les essences spagyriques renforcent la vitalité de l’organisme en général e
 
 
 <p style="text-align: center;">
-<img class="aligncenter" alt="..." src="./images/spagyrie.jpg" width="671" height="547" />
+<img class="aligncenter" alt="..." src="./images/primeveres.jpg" width="750" height="500" />
 </p>
 

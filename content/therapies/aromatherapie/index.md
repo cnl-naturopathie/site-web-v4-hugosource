@@ -44,3 +44,8 @@ Dans un but thérapeutique, elles sont utilisées de diverses manières :
   * par les voies génitales sous forme d’ovules
 
 Des critères de qualité sont indispensables et le mode de prescription est décisif pour une bonne efficacité de traitement.
+
+<p style="text-align: center;">
+<img class="aligncenter" alt="..." src="./images/aromatherapie.jpg" width="671" height="547" />
+</p>
+

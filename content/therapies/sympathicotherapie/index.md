@@ -7,7 +7,7 @@ thumbnail:
     therapeute: Fabienne
 ---
 
-<a href="./images/sympatico.jpg"><img class="alignleft" alt="sympatico" src="images/sympatico.jpg" width="200" height="176" /></a>La **sympathicothérapie** est une technique utilisant les zones réflexes endonasales dans un but thérapeutique. Elle s’apparente aux autres méthodes réflexogènes telles que l’acupuncture, l’auriculothérapie et la podoréflexologie.
+La **sympathicothérapie** est une technique utilisant les zones réflexes endonasales dans un but thérapeutique. Elle s’apparente aux autres méthodes réflexogènes telles que l’acupuncture, l’auriculothérapie et la podoréflexologie.
 
 Cette méthode s’intègre parfaitement dans les thérapeutiques naturelles et permet des résultats rapides, sans aucun danger et sans réactions douloureuses.
 
