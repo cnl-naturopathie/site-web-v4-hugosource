@@ -2,6 +2,7 @@
 title: Cesser de fumer
 author: nico
 date: 2015-12-31
+draft: true
 thumbnail:
     desc: Cesser de fumer
     image: feature.jpg

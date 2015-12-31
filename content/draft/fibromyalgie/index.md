@@ -2,6 +2,7 @@
 title: La fibromyalgie
 author: nico
 date: 2016-01-31
+draft: true
 thumbnail:
     desc: Fibromyalgie
     image: feature.jpg
