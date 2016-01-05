@@ -107,4 +107,4 @@ Suppositoires d’huiles essentielles pour les bronchites, les angines ou les si
 
 Quand la forme revient, il est essentiel de ne pas reprendre un rythme « d’enfer », de continuer les compléments alimentaires comme un complexe de vitamines et de minéraux, le sirop du Père Michel ou encore des synergies de plantes pour les défenses immunitaires.
 
-[1]: /articles/prevention-hiver/ "Prévention pour l’hiver"
+[1]: /ressources/prevention-hiver/ "Prévention pour l’hiver"
