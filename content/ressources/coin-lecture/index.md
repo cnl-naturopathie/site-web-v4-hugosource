@@ -12,21 +12,6 @@ thumbnail:
 <div class="col-xs-6 col-sm-4 col-md-3">
 	<div class="portfolio-item">
 		<div class="hover-bg">
-			<a title="Le lait : une sacrée vacherie ?" href="http://www.amazon.fr/dp/2877240568/">
-				<div class="hover-text">
-					<h4>Le lait : une sacrée vacherie ?</h4>
-					<small> </small>
-					<div class="clearfix"></div>
-					<i class="fa fa-plus"></i>
-				</div>
-				<img src="./images/51B4J9RA5ZL.jpg" culass="img-responsive" alt="..." />
-			</a>
-		</div>
-	</div>
-</div>
-<div class="col-xs-6 col-sm-4 col-md-3">
-	<div class="portfolio-item">
-		<div class="hover-bg">
 			<a title="La nutrithérapie : bases scientifiques et pratique médicale" href="http://www.amazon.fr/dp/2857421540/">
 				<div class="hover-text">
 					<h4>La nutrithérapie : bases scientifiques et pratique médicale</h4>
@@ -35,6 +20,21 @@ thumbnail:
 					<i class="fa fa-plus"></i>
 				</div>
 				<img src="./images/41T6NKQ74GL.jpg" culass="img-responsive" alt="..." />
+			</a>
+		</div>
+	</div>
+</div>
+<div class="col-xs-6 col-sm-4 col-md-3">
+	<div class="portfolio-item">
+		<div class="hover-bg">
+			<a title="Le lait : une sacrée vacherie ?" href="http://www.amazon.fr/dp/2877240568/">
+				<div class="hover-text">
+					<h4>Le lait : une sacrée vacherie ?</h4>
+					<small> </small>
+					<div class="clearfix"></div>
+					<i class="fa fa-plus"></i>
+				</div>
+				<img src="./images/51B4J9RA5ZL.jpg" culass="img-responsive" alt="..." />
 			</a>
 		</div>
 	</div>

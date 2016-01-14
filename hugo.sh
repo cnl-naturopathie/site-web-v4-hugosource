@@ -17,11 +17,11 @@ github)
         COMMENT="Pas de commit sans commentaires !"
     else
         COMMENT=$2
-        echo -e "\n### Mise à jour du dépôt “site-web-v4”"
+        echo -e "\n### Mise à jour du dépôt “site-web-v4-hugosource”"
         git add .
         git commit -m "$COMMENT"
         git push
-        echo -e "\n### Mise à jour du dépôt “site-web-v4-hugofiles””"
+        echo -e "\n### Mise à jour du dépôt “site-web-v4”"
         cd $OUT_PATH
         git add .
         git commit -m "$COMMENT"
@@ -51,13 +51,13 @@ s3)
 fenix)
     OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-github/"
     hugo                                        \
-        --baseURL="http://192.168.1.116:8080/"  \
+        --baseURL="http://192.168.1.106:8080/"  \
         --theme cnl-spirit                      \
         --destination=$OUT_PATH
     ;;
 
 *)
-    IP=192.168.1.116
+    IP=192.168.1.106
     hugo server                 \
         --baseURL="http://$IP/" \
         --bind=$IP              \
