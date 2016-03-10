@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo -e "\nVérifier l’adresse IP en cas de problème !!!\n"
+
 case "$1" in
 
 github)
@@ -51,13 +53,13 @@ s3)
 fenix)
     OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-github/"
     hugo                                        \
-        --baseURL="http://192.168.1.106:8080/"  \
+        --baseURL="http://192.168.1.116:8080/"  \
         --theme cnl-spirit                      \
         --destination=$OUT_PATH
     ;;
 
 *)
-    IP=192.168.1.106
+    IP=192.168.1.116
     hugo server                 \
         --baseURL="http://$IP/" \
         --bind=$IP              \
