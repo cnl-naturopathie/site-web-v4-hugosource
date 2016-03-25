@@ -10,6 +10,7 @@ thumbnail:
 
 ## Nouveaux liens
 
+  * [debredinoire.fr : La Suisse reconnaît officiellement la profession de naturopathe][37]
   * [www.filmsdocumentaires.com/portail/filmsbilien.html][1]
   * [www.librairie-bien-etre.ch][2]
   * [www.alterinfo.net][3]
@@ -95,3 +96,4 @@ thumbnail:
  [34]: http://www.mora-therapie.ch/index_f.htm
  [35]: http://www.whatthebleep.com/rabbithole/
  [36]: http://www.onnouscachetout.com/
+ [37]: http://debredinoire.fr/la-suisse-reconnait-officiellement-la-profession-de-naturopathe/
