@@ -48,7 +48,7 @@ La bible de la médecine chinoise est le livre de l’Empereur jaune, le Su wen,
 
 D’où la nécessité d’harmoniser notre assiette et notre énergie afin d’aiguiller le corps à vivre et à revivre en santé.
 
-Consultation tous les vendredis à Romanel s/Lausanne, tél. +41 79 943 82 11
+Consultation tous les lundis à Romanel s/Lausanne, tél. +41 79 943 82 11
 
 ## Le soin énergétique chinois {#lesoinénergétiquechinois}
 
