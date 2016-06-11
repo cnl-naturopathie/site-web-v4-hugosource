@@ -10,7 +10,7 @@ thumbnail:
 
 **_Fabienne Jordan-Grossrieder, Naturopathe – Nutritionniste_**
 
-## Rester en pleine forme<br/>toute la saison froide
+## Rester en pleine forme toute la saison froide
 
 « Mieux vaut prévenir que guérir ». C’est le but de cet article. La santé n’est jamais acquise et doit être au centre de nos priorités. Nous ne sommes pas tous égaux vis-à-vis de la maladie, mais rien n’arrive par hasard, même quand nous « tombons » malades.
 La prévention des maux hivernaux se fait d’une manière globale. D’abord par une prise en charge de soi-même surtout, puis par la prise de remèdes.
