@@ -8,6 +8,12 @@ thumbnail:
     image: feature.jpg
 ---
 
+Une poigne de fer dans un gant de velours, sauf quand tu utilises ta “matraque” !<br/>Sans toi, il y a déjà longtemps que mes bras auraient touché le sol à force d'avoir le dos bloqué.
+
+*Christine, Lausanne*
+
+<hr style="margin:50px 0" />
+
 Fabienne a toujours été là quand j’en ai eu besoin. En écoutant et appliquant ses conseils j’ai eu des résultats extraordinaires. Un grand merci !
 
 *Simon Olivetta, Vufflens-la-Ville*
