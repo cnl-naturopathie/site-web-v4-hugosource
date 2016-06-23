@@ -10,7 +10,7 @@ thumbnail:
 
 Une poigne de fer dans un gant de velours, sauf quand tu utilises ta “matraque” !<br/>Sans toi, il y a déjà longtemps que mes bras auraient touché le sol à force d'avoir le dos bloqué.
 
-*Christine, Lausanne*
+*Christine, Bioley-Orjulaz*
 
 <hr style="margin:50px 0" />
 
