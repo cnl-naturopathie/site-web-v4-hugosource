@@ -11,7 +11,7 @@
 						{{ range .Data.Pages }}
 						{{ if eq .Type "therapeutes" }}
 						{{ $TRPT_IMG    := .Params.infos.image | printf "%simages/%s" .Permalink }}
-						<div class="col-xs-12 col-sm-4">
+						<div class="col-xs-12 col-sm-3 col-sm-offset-2">
 							<p><b><a href="{{ .Params.infos.url }}">{{ .Params.infos.prenom }}<br/>{{ .Params.infos.nom }}</a></b></p>
 							<p>
 							{{ range .Params.infos.specialites }}

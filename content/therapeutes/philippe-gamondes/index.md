@@ -1,6 +1,7 @@
 ---
 title: Philippe Gamondès
 date: 2014-08-11
+draft: true
 weight: 1
 infos:
     image: philippe-gamondes.jpg
