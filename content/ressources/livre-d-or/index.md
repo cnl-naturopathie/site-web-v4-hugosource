@@ -58,5 +58,4 @@ Là, je me sens démunie et impuissante. Instinctivement, je retire les produits
 Enfin, je suis écoutée, entendue, considérée, Fabienne m’apporte soutien et réconfort et surtout des réponses ! Oui mes enfants ont des intolérances alimentaires ! Une nouvelle alimentation sera mise en place grâce à ses conseils et idées. Mes enfants sont soignés, le Ventolin n’a plus été utilisé depuis une année.
 Fabienne aime son métier et elle diffuse une énergie de douceur rassurante, elle prend le temps et sait réellement écouter. Elle s’implique vraiment et c’est une source d’idée. Pour nous, c’est notre médecin de famille en qui j’ai une confiance absolue et je lui porte un immense respect. Sa disponibilité est très agréable. Je lui suis profondément reconnaissante.
 
-Ines
-
+*Ines, Crissier*
