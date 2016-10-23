@@ -1,7 +1,7 @@
 ---
 title: Prévention pour l’hiver
 author: nico
-date: 2015-12-22
+date: 2015-10-23
 weight: 2
 thumbnail:
     desc: Prévention pour l’hiver
@@ -40,11 +40,15 @@ Ces quelques conseils vous sembleront certainement logiques, mais nous n’avons
 
 _1 cs le matin_
 
-<span class="toto">OU</span> **Préparation magistrale en Spagyrie Phylak : PS139.0 100ml**
+**Ou Gelée Royale**
 
-Podophyllum, FREQuENCE 20 %, Datura, Nuphar, Dulcamara, Coffea, Vinca, Rhus tox, Melilotus, Viscum, Quercus.
+1 dosette/j
+
+<span class="toto">OU</span> **Préparation magistrale en Spagyrie Phylak** : Datura (3gt) 100ml
 
 _10 gouttes 1 à 2×/j_
+
+Cimicifuga-Okoubaka-Iris-Betula (20%), Lycopus (5%), VIRESSSENCEEE (25%), Vinca-Rhus tox-Belladonna (15%), Pareira (5%), Cimicifuga-Yokimbe-Datura-Betula (20%), Pulsatilla (5%), Malva (5%), Datura (3gt)
 
 <span class="toto">OU</span> **C.I.P Défenses naturelles, Dietaroma**
 
@@ -52,23 +56,19 @@ _1 ampoule 1 j sur 2_
 
 ***
 
-<span class="toto">+</span> **Oméga 3 EPA/DHA ou Huile de foie de morue (+Vit D)**
+<span class="toto">+</span> **Oméga 3 EPA/DHA ou huile de foie de morue (+Vit D)**
 
 _1 comp/j_
 
-<span class="toto">+</span> **Probiotique – Maxiflore (Synergia)**
+<span class="toto">+</span> **Poudre d’orge**
 
-_1 gél. 2×/sem_
-
-<span class="toto">OU</span> **Serum de Quinton isotonique**
-
-_1 ampoule 1 jour sur 2_
+_1 cc le matin_
 
 ***
 
 <span class="toto">+</span> **Fumigations** avec la synergie **108** (Lakshmi-Usha Veda)
 
-_8 gouttes dans un bol d'eau chaude_
+_8 gouttes dans un bol d’eau chaude_
 
 Chaque fois que le nez coule,  nez  sec, gorge sèche ou irritée ou que vous avez une toux, même petite.
 
