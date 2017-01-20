@@ -77,4 +77,4 @@ Chaque fois que le nez coule,  nez  sec, gorge sèche ou irritée ou que vous av
 
 <p style="margin-top: 5em;"></p>
 
-Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br /> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison... <span style="text-align: right; display: block; margin-top: 1em;">automne 2016</span>
+Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br /> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison... <span style="text-align: right; display: block; margin-top: 1em;">automne 2017</span>
