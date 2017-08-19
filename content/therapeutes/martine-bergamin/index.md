@@ -2,6 +2,7 @@
 title: Martine Bergamin
 author: nico
 date: 2014-07-15
+draft: true
 weight: 3
 infos:
     image: feuille-martine-bergamin.png

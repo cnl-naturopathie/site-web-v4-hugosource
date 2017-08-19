@@ -1,6 +1,6 @@
 <div class="container">
 	<div class="section-title center">
-		<h2>Les <strong>thérapeutes</strong></h2>
+		<h2><strong>thérapeute</strong></h2>
 		<div class="line">
 			<hr />
 		</div>
@@ -17,9 +17,15 @@
 
 		pour 3 thérapeuthes
 		<div class="col-xs-12 col-sm-4 {{ .Params.infos.prenom }}">
+
+		pour 2 thérapeuthes
+		<div class="col-xs-12 col-sm-3 col-sm-offset-2 {{ .Params.infos.prenom }}">
+
+		pour 1 thérapeuthe
+		<div class="col-xs-12 col-sm-12 {{ .Params.infos.prenom }}">
 		 -->
 		*/}}
-		<div class="col-xs-12 col-sm-3 col-sm-offset-2 {{ .Params.infos.prenom }}">
+		<div class="col-xs-12 col-sm-12 {{ .Params.infos.prenom }}">
 			<div class="thumbnail">
 				<a href="{{ .Params.infos.url }}">
 					<img src="{{ $TRPT_IMG }}" alt="{{ .Params.infos.prenom }} {{ .Params.infos.nom }}" class="img-circle team-img" />

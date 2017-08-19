@@ -3,14 +3,14 @@ title: Fabienne Jordan-Grossrieder
 date: 2013-12-14
 weight: 2
 infos:
-    image: fabienne-grossrieder-002-143x143.jpg
+    image: fabienne-grossrieder-003-143x143.jpg
     nom: Jordan-Grossrieder
     prenom: Fabienne
     specialites: [
-        Naturopathe,
+        "Naturopathe avec diplôme fédéral<br />en médecine naturelle traditionnelle<br />européenne (MTE)",
         Nutritionniste ]
     tel: <i class="fa fa-mobile"></i> +41 78 822 48 38
-    detail: Agréée par l’ASCA
+    detail: "Membre APTN, agréée ASCA, RME, No RCC X262462"
     url: /therapeutes/fabienne-jordan-grossrieder/
 thumbnail:
     desc: Fabienne Jordan
@@ -18,7 +18,7 @@ thumbnail:
 
 **Fabienne Jordan-Grossrieder a le plaisir de vous accueillir sur le site du Centre de Naturopathie Lausanne**
 
-<img class="alignright size-full wp-image-298" alt="Photo_Fabienne" src="./images/fabienne-grossrieder-001-200x267.jpg" width="200" />Vous y découvrirez des solutions naturelles pour maintenir, améliorer ou recouvrer votre santé.
+<img class="alignright size-full wp-image-298" alt="Photo_Fabienne" src="./images/fabienne-grossrieder-004-200x281.jpg" width="200" />Vous y découvrirez des solutions naturelles pour maintenir, améliorer ou recouvrer votre santé.
 Fabienne Jordan-Grossrieder, naturopathe et nutritionniste diplômée, pratique depuis 1993 les médecines complémentaires et exerce comme indépendante depuis 1999. Son expérience et les formations continues qu’elle suit régulièrement lui permettent d’avoir une palette d’outils qu’elle peut utiliser en fonction des besoins de chacun et dans des domaines aussi vastes que les troubles digestifs, les allergies, les maux de dos, les migraines, les maladies chroniques, etc. Elle donne également régulièrement des conférences sur la prévention des maladies hivernales et les problèmes féminins.
 
 La médecine complémentaire peut toujours aider, améliorer, voir permettre au patient de se débarrasser des symptômes, pour autant qu’il le décide et s’investisse dans sa prise en charge.
