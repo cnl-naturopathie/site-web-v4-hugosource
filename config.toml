@@ -1,5 +1,5 @@
 theme            = "cnl-spirit"
-baseurl          = "http://cnl-naturopathie.ch/"
+baseurl          = "https://cnl-naturopathie.ch/"
 
 canonifyurls     = true
 languageCode     = "fr-fr"
