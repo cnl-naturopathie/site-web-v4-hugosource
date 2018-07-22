@@ -10,7 +10,7 @@ github)
     echo "Génération des fichiers GitHub"
     hugo                                                                \
         --destination=$OUT_PATH                                         \
-        --baseURL="http://cnl-naturopathie.ch/"
+        --baseURL="https://cnl-naturopathie.ch/"
     cp README.md $OUT_PATH
     if [ -z "$2" ]
     then

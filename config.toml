@@ -6,5 +6,5 @@ languageCode     = "fr-fr"
 title            = "CNL-Naturopathie"
 disableRSS       = true
 [params]
-    Webmaster          = '<a href="http://jeanmonod.net/">Nicolas Jeanmonod</a>'
+    Webmaster          = '<a href="https://jeanmonod.net/">Nicolas Jeanmonod</a>'
     CopyrightHTML      = "© CNL-Naturopathie Lausanne"
