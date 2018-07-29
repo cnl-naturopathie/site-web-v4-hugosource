@@ -49,7 +49,6 @@ Fabienne Jordan-Grossrieder a eu la chance de travailler et collaborer avec Rola
 
 
 <div class="row">
-
 <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0" style="margin-top: 80px;">
 <img alt="cabinet CNL" src="./images/cabinet-cnl-002.jpg" />
 </div>
@@ -61,5 +60,4 @@ Fabienne Jordan-Grossrieder a eu la chance de travailler et collaborer avec Rola
 <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0" style="margin-top: 80px;">
 <img alt="cabinet CNL" src="./images/cabinet-cnl-003.jpg" />
 </div>
-
 </div>
