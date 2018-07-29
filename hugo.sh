@@ -8,15 +8,27 @@ github)
     OUT_PATH="$HOME/Sites/cnl-naturopathie/site-web-v4/"
     # rm -rf $OUT_PATH # !! Ne pas effacer le répertoire .git !!
     echo "Génération des fichiers GitHub"
+
+    pushd $OUT_PATH
+    git rm -rf "*"
+    popd
+
     hugo                                                                \
         --destination=$OUT_PATH                                         \
         --baseURL="https://cnl-naturopathie.ch/"
+
+    pushd $OUT_PATH
+    find . -name "*" -size 0 -not -path "./.git/*" -delete
+    popd
+
     cp README.md $OUT_PATH
     if [ -z "$2" ]
+
     then
         echo "##########"
         echo "site généré à $OUT_PATH"
         COMMENT="Pas de commit sans commentaires !"
+
     else
         COMMENT=$2
         echo -e "\n### Mise à jour du dépôt “site-web-v4-hugosource”"
