@@ -22,7 +22,7 @@ La migraine représente une menace sérieuse pour l’équilibre et la santé, l
 
 En Suisse, on estime à environ un million le nombre de migraineux, soit **7 % des hommes et 15 % des femmes**. C’est un des principaux motifs d’arrêt de travail. Cela veut dire 2,2 millions de journées perdues chaque année du fait de la migraine.
 
-La migraine est une des affections les plus mal soignées. Selon des données actuelles, environ 10 % des migraineux ne se soignent pas du tout, alors que 50 % se soignent pas automédication. Les autres passent d’un médecin à l’autre parce qu’ils se sentent à chaque fois mal écoutés ou mal compris, sans compter que certains médicaments sont très mal supportés.
+La migraine est une des affections les plus mal soignées. Selon des données actuelles, environ 10 % des migraineux ne se soignent pas du tout, alors que 50 % se soignent par automédication. Les autres passent d’un médecin à l’autre parce qu’ils se sentent à chaque fois mal écoutés ou mal compris, sans compter que certains médicaments sont très mal supportés.
 
 En médecine classique, il y a une théorie qui affirme qu’il n’existe aucune preuve du caractère héréditaire de la migraine. Une autre théorie affirme le contraire, en disant que l’origine peut se trouver dans une diminution cyclique des neurotransmetteurs biologiques.
 
@@ -30,7 +30,7 @@ En médecine classique, il y a une théorie qui affirme qu’il n’existe aucun
 
 ## Mécanisme des migraines et céphalées
 
-Les migraines et autres maux de tête sont étroitement liés aux processus de **l’inflammation et de l’hyperviscosité sanguine** (sans épais), selon les travaux du professeur MOSKOWITZ, médecin américain.
+Les migraines et autres maux de tête sont étroitement liés aux processus de **l’inflammation et de l’hyperviscosité sanguine** (sans épais), selon les travaux du professeur Moskowitz, médecin américain.
 
 Les critères qui définissent la migraine sont capitaux :
 
@@ -56,7 +56,7 @@ Un autre nerf de la face se trouve aussi activé, **le nerf facial**.
 
 **Les causes de la migraine sont donc vasomotrices et inflammatoires**
 
-## Les allergies et intolérances alimentaires
+## Les allergies et intolérances alimentaires
 
 L’implication des allergies et des hypersensibilités alimentaires dans la migraine n’est plus à démontrer. Ces causes représentent les 2/3 des migraines !
 
@@ -119,7 +119,7 @@ Et de façon générale :
   * Ne buvez jamais de café au lait (indigeste).
   * Évitez les excès de café et d’alcool.
 
-## Traitement des migraines par des remèdes naturels
+## Traitement des migraines par des remèdes naturels
 
 **La Bromelase** ou bromélaïne est une enzyme tirée de la tige de l’ananas vert. Elle est particulièrement efficace dans le traitement de la migraine associée à l’inflammation et à la congestion sanguine.
 
