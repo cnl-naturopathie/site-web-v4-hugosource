@@ -5,7 +5,7 @@ date: 2018-08-25
 draft: false
 weight: 3
 infos:
-    image: françois-bedert-150x150.jpg
+    image: francois-bedert-150x150.jpg
     nom: Bédert
     prenom: François
     specialites: [
@@ -18,12 +18,12 @@ infos:
         Biorésonance ]
     tel: <i class="fa fa-mobile"></i> +41 79 616 25 68
     detail: Agréée par l’ASCA
-    url: /therapeutes/françois-bedert/
+    url: /therapeutes/francois-bedert/
 thumbnail:
     desc: François Bédert
 ---
 
-<img class="alignright size-full" alt="François Bédert" src="./images/françois-bedert-200x263.jpg" width="200" />François Bédert a le plaisir de vous annoncer sa collaboration avec Fabienne Jordan-Grossrieder à Romanel au Centre de Naturopathie Lausanne (CNL).
+<img class="alignright size-full" alt="François Bédert" src="./images/francois-bedert-200x263.jpg" width="200" />François Bédert a le plaisir de vous annoncer sa collaboration avec Fabienne Jordan-Grossrieder à Romanel au Centre de Naturopathie Lausanne (CNL).
 
 Passionné depuis 40 ans par les médecines complémentaires, il se réjouit de vous accueillir au CNL à partir du 3 septembre 2018.
 
