@@ -18,7 +18,7 @@ infos:
         Biorésonance,
         Étiopathie ]
     tel: <i class="fa fa-mobile"></i> +41 79 616 25 68
-    detail: Agréée par l’ASCA
+    detail: Agréé par l’ASCA
     url: /therapeutes/francois-bedert/
 thumbnail:
     desc: François Bédert
