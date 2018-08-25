@@ -9,7 +9,7 @@ thumbnail:
 
 La biorésonnance avec appareil MORA est une technique de biophysique médicale fondée sur l’utilisation et la correction des oscillations électromagnétiques captées sur les méridiens et points d’acupuncture du patient lui-même, au moyen de l’appareil MORA.
 
-<img class="alignleft size-full wp-image-313" alt="mora" src="./images/mora.jpg" width="200" height="144" />
+<img class="alignleft size-full wp-image-313" alt="mora" src="./images/mora.jpg" width="200" />
 
 L’appareil MORA capte les signaux physiologiques et les signaux pathologiques perturbateurs du patient. Il les transforme en oscillations correctrices, puis il les restitue au patient. Les énergies pathologiques sont ainsi éliminées, tandis que les oscillations physiologiques sont renforcées.
 
