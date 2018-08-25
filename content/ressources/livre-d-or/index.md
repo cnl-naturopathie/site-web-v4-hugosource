@@ -1,24 +1,46 @@
 ---
 title: Livre d’or
 author: nico
-date: 2016-06-09
+date: 2018-08-25
 weight: 4
 thumbnail:
     desc: Livre d’or
     image: feature.jpg
 ---
 
-Une poigne de fer dans un gant de velours, sauf quand tu utilises ta “matraque” !<br/>Sans toi, il y a déjà longtemps que mes bras auraient touché le sol à force d'avoir le dos bloqué.
+Lorsque je suis allée consulter Mme Jordan-Grossrieder, cela faisait plusieurs mois que je souffrais d’une grande fatigue liée à un parasite auquel mon système immunitaire n’arrivait pas à faire face.
+
+En quelques jours seulement, grâce aux traitements et recommandations que j’ai reçus, j’ai gagné plusieurs heures d’éveil et retrouvé du tonus. En quelques semaines, ce sont même les crises liées aux multiples allergies dont je souffrais qui ont commencé à perdre du terrain. Aujourd’hui, elles ont presque totalement disparu.
+
+J’ai encouragé mon compagnon à la rencontrer également et il s’est rapidement senti mieux qu’il ne l’avait été depuis bien (trop) longtemps : système immunitaire plus performant, diminution des crises allergies, etc.
+
+Puis, lorsque nous avons eu la joie d’accueillir notre première enfant, c’est tout naturellement que nous nous sommes tournés vers elle pour qu’elle lui apporte soins et conseils.
+
+Cela fait maintenant plusieurs années que nous adaptons notre mode de vie et notre alimentation selon les recommandations de Mme Jordan-Grossrieder et notre qualité de vie s’en est trouvée grandement améliorée.
+
+Un grand merci à elle !
+
+*Sabrina, Vevey*
+
+<hr style="margin:50px 0" />
+
+
+
+Une poigne de fer dans un gant de velours, sauf quand tu utilises ta “matraque” !<br/>Sans toi, il y a déjà longtemps que mes bras auraient touché le sol à force d’avoir le dos bloqué.
 
 *Christine, Bioley-Orjulaz*
 
 <hr style="margin:50px 0" />
+
+
 
 Fabienne a toujours été là quand j’en ai eu besoin. En écoutant et appliquant ses conseils j’ai eu des résultats extraordinaires. Un grand merci !
 
 *Simon Olivetta, Vufflens-la-Ville*
 
 <hr style="margin:50px 0" />
+
+
 
 Fidèle depuis 16 ans, je peux dire que du bien sur Fabienne.
 
@@ -30,7 +52,10 @@ Merci beaucoup pour ton super travail !
 
 *Annette, Cugy*
 
+
 <hr style="margin:50px 0" />
+
+
 
 En août 2015, j’ai dû me rendre aux urgences pour un angio-œdème facial très impressionnant et une urticaire généralisée. Je n’avais jamais fait d’allergie auparavant donc ça a été un choc. Bien sûr ma santé se dégradait depuis quelques années mais les médecins ne trouvaient rien qu’ils puissent traiter. J’ai donc consulté un allergologue, qui m’a très mal prise en charge selon moi, car il m’a prescrit des antihistaminiques au long terme alors que je ne les supportais pas, sans chercher de cause à mes problèmes. C’est une collègue qui m’a conseillé de venir voir Fabienne Jordan G. car elle avait traité sa fille pour des allergies il y avait de cela plusieurs années en arrière et elle avait été très contente de la prise en charge et des résultats, bien meilleurs selon elle qu’avec la médecine générale.
 
@@ -50,6 +75,8 @@ Je remercie vraiment Fabienne Jordan qui m’a écoutée, entendue, guidée, sou
 *Laure, Sion*
 
 <hr style="margin:50px 0" />
+
+
 
 Maman de trois enfants, mes deux cadets ont commencé à avoir des troubles digestifs lors de l’introduction de l’alimentation solide. Entourés d’un pédiatre anthroposophe et d’un homéopathe, mes enfants ne sont pas vaccinés et mon orientation est clairement inclinée vers les médecines naturelles. Face aux troubles digestifs de ma fille, le pédiatre et l’homéopathe ne savent pas vraiment que faire et m’orientent vers une pédiatre-gastro-entérologue. Puis nous irons chez un allergologue faire des prises de sang. Choux blancs : aucune allergie et une belle théorie sur la normalité des bronchites spastiques, pneumonies à répétition et eczéma : c’est normal avant 5 ans !
 

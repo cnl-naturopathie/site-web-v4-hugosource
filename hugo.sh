@@ -1,7 +1,36 @@
 #!/bin/bash
 
-echo -e "\nVérifier l’adresse IP en cas de problème !!!\n"
+# Get default route interface
+if=$(route -n get 0.0.0.0 2>/dev/null | awk '/interface: / {print $2}')
+if [ -n "$if" ]; then
+    echo "Default route is through interface $if"
+else
+    echo "No default route found"
+fi
 
+# Get IP of the default route interface
+IP=$( ipconfig getifaddr $if )
+
+# Find an available port
+PORTMIN=8000
+PORTMAX=8009
+PORT=$PORTMIN
+while true; do
+    PORTINUSE=$( lsof -i tcp:$PORT )
+    if [ -z "$PORTINUSE" ]; then
+        break;
+    fi
+    echo "$IP:$PORT already in use"
+
+    PORT=$((PORT+1))
+    if [ "$PORT" -gt "$PORTMAX" ]; then
+        echo "No available port found between $PORTMIN and $PORTMAX."
+        exit 1
+    fi
+done
+
+
+# Main
 case "$1" in
 
 github)
@@ -71,11 +100,12 @@ fenix)
     ;;
 
 *)
-    IP=192.168.1.124
+    echo "IP = $IP"
+    echo "PORT = $PORT"
     hugo server                 \
         --baseURL="http://$IP/" \
         --bind=$IP              \
-        --port=8080             \
+        --port=$PORT            \
         --appendPort=true       \
         --theme cnl-spirit
     ;;
