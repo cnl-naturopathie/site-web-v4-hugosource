@@ -15,7 +15,8 @@ infos:
         "Hypnose, PNL",
         Pleine Conscience,
         Santé par le toucher,
-        Biorésonance ]
+        Biorésonance,
+        Étiopathie ]
     tel: <i class="fa fa-mobile"></i> +41 79 616 25 68
     detail: Agréée par l’ASCA
     url: /therapeutes/francois-bedert/
