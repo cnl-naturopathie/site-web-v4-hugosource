@@ -10,7 +10,7 @@ infos:
         "Naturopathe avec diplôme fédéral<br />en médecine naturelle traditionnelle<br />européenne (MTE)",
         Nutritionniste ]
     tel: <i class="fa fa-mobile"></i> +41 78 822 48 38
-    detail: "Membre APTN, agréée ASCA, RME, No RCC X262462"
+    detail: "Membre APTN • agréée par l’ASCA • RME, n° RCC X262462"
     url: /therapeutes/fabienne-jordan-grossrieder/
 thumbnail:
     desc: Fabienne Jordan
@@ -47,6 +47,8 @@ Fabienne Jordan-Grossrieder a eu la chance de travailler et collaborer avec Rola
 </div>
 
 
+{{< comment >}}
+<!--
 
 <div class="row">
 <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0" style="margin-top: 80px;">
@@ -61,3 +63,6 @@ Fabienne Jordan-Grossrieder a eu la chance de travailler et collaborer avec Rola
 <img alt="cabinet CNL" src="./images/cabinet-cnl-003.jpg" />
 </div>
 </div>
+
+-->
+{{< /comment >}}

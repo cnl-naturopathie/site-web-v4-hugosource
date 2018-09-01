@@ -1,10 +1,11 @@
 ---
 title: Ostéopathie
 author: nico
-date: 2013-12-14
+date: 2018-09-01
 thumbnail:
     desc: Ostéopathie
     image: feature.jpg
+    therapeute: Francois
 ---
 
 L’ostéopathie est un système de soins basé sur des techniques de manipulations douces, appliquées au niveau musculaire, vertébral, crânien, thoraco-abdomino-pelvien, ainsi que sur les membres.
@@ -19,4 +20,4 @@ Le champ d’application est vaste. L’ostéopathie peut prendre en charge auss
 
 Le but du traitement consiste à réharmoniser les structures du corps par des techniques précises, afin de permettre le retour à la normale de la circulation des fluides et de l’énergie nerveuse.
 
-Cette technique n’est pas proposée dans le Centre de Naturopathie Lausanne.
+Cette technique est proposée par [François Bédert](/therapeutes/francois-bedert/) au Centre de Naturopathie Lausanne.
