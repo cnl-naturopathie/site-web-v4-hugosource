@@ -1,12 +1,23 @@
 ---
 title: Livre d’or
 author: nico
-date: 2018-08-25
+date: 2018-10-28
 weight: 4
 thumbnail:
     desc: Livre d’or
     image: feature.jpg
 ---
+
+C’est avec enthousiasme que nous recommandons Mme Fabienne Jordan-Grossrieder. Cela fait maintenant plusieurs années que nous bénéficions de ses excellents soins.
+
+Grâce à sa gentillesse, à son professionnalisme, à la qualité de ses soins et à sa disponibilité, elle a su convaincre notre famille.
+
+C’est ainsi qu’elle prend en charge, épisodiquement ou de manière régulière, dix membres de la famille répartis sur trois générations...
+
+*Michel, Patricia, Caroline, Gabriel, Tabatha, & Co.*
+
+<hr style="margin:50px 0" />
+
 
 Lorsque je suis allée consulter Mme Jordan-Grossrieder, cela faisait plusieurs mois que je souffrais d’une grande fatigue liée à un parasite auquel mon système immunitaire n’arrivait pas à faire face.
 

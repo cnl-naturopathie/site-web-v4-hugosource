@@ -1,7 +1,7 @@
 ---
 title: Prévention pour l’hiver
 author: nico
-date: 2015-10-23
+date: 2018-10-28
 weight: 2
 thumbnail:
     desc: Prévention pour l’hiver
@@ -36,29 +36,34 @@ Ces quelques conseils vous sembleront certainement logiques, mais nous n’avons
 
 ***
 
-**Pollens de ciste, de châtaignier ou de saule**
+**Dr. Reckeweg R191 Echinacea comp.**
 
-_1 cs le matin_
+_10 gouttes 1 j sur 2_
 
 **Ou Gelée Royale**
 
-1 dosette/j
+_1 dosette 1 j sur 2_
 
-<span class="toto">OU</span> **Préparation magistrale en Spagyrie Phylak** : Datura (3gt) 100ml
 
-_10 gouttes 1 à 2×/j_
 
-Cimicifuga-Okoubaka-Iris-Betula (20%), Lycopus (5%), VIRESSSENCEEE (25%), Vinca-Rhus tox-Belladonna (15%), Pareira (5%), Cimicifuga-Yokimbe-Datura-Betula (20%), Pulsatilla (5%), Malva (5%), Datura (3gt)
+<span class="toto">OU</span> **Préparation magistrale en Spagyrie Phylak**
 
-<span class="toto">OU</span> **C.I.P Défenses naturelles, Dietaroma**
+_100 ml 10 gouttes / j_
 
-_1 ampoule 1 j sur 2_
+15% Pillocarpus-Imperatoria-Gelsemium, 20% Drosera-Urtica-China-Kalmia, 25% Vinca-Rhus tox-Belladona-Allium cepa-Kalmia, 20% Propolis-Ephedra-Sambucus-thuya, 20% Fagopyrum-Eupatorium-Echinacea pallida-Juniperus
+
+
+
+
+<span class="toto">OU</span> **•    Homéopathie Schmidt Nagel : Influenzinum 9CH et Thymuline 9CH**
+
+_1 dose 1 semaine / 2 en alternance_
 
 ***
 
-<span class="toto">+</span> **Oméga 3 EPA/DHA ou huile de foie de morue (+Vit D)**
+<span class="toto">+</span> **Oméga 3 EPA/DHA ou Huile de foie de morue** (+Vit D)
 
-_1 comp/j_
+_1 comp / j_
 
 <span class="toto">+</span> **Poudre d’orge**
 
@@ -77,4 +82,4 @@ Chaque fois que le nez coule,  nez  sec, gorge sèche ou irritée ou que vous av
 
 <p style="margin-top: 5em;"></p>
 
-Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br /> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison... <span style="text-align: right; display: block; margin-top: 1em;">automne 2017</span>
+Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br /> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison... <span style="text-align: right; display: block; margin-top: 1em;">automne 2018</span>
