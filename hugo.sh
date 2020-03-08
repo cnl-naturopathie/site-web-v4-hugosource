@@ -1,5 +1,10 @@
 #!/bin/bash
 
+shopt -s expand_aliases
+alias hugo='hugo_0.49.2_macOS-64bit/hugo'
+hugo version
+
+
 # Get default route interface
 if=$(route -n get 0.0.0.0 2>/dev/null | awk '/interface: / {print $2}')
 if [ -n "$if" ]; then

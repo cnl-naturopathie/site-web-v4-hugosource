@@ -47,7 +47,7 @@ Fabienne Jordan-Grossrieder a eu la chance de travailler et collaborer avec Rola
 </div>
 
 
-{{< comment >}}
+
 <!--
 
 <div class="row">
@@ -65,4 +65,3 @@ Fabienne Jordan-Grossrieder a eu la chance de travailler et collaborer avec Rola
 </div>
 
 -->
-{{< /comment >}}
