@@ -14,6 +14,8 @@ infos:
     url: /therapeutes/fabienne-grossrieder/
 thumbnail:
     desc: Fabienne Grossrieder
+aliases:
+    - /therapeutes/fabienne-jordan-grossrieder/
 ---
 
 **Fabienne Grossrieder a le plaisir de vous accueillir sur le site du Centre de Naturopathie Lausanne**
