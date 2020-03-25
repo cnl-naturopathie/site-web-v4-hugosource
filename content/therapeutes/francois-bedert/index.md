@@ -24,7 +24,7 @@ thumbnail:
     desc: François Bédert
 ---
 
-<img class="alignright size-full" alt="François Bédert" src="./images/francois-bedert-200x263.jpg" width="200" />François Bédert a le plaisir de vous annoncer sa collaboration avec Fabienne Jordan-Grossrieder à Romanel au Centre de Naturopathie Lausanne (CNL).
+<img class="alignright size-full" alt="François Bédert" src="./images/francois-bedert-200x263.jpg" width="200" />François Bédert a le plaisir de vous annoncer sa collaboration avec Fabienne Grossrieder à Romanel au Centre de Naturopathie Lausanne (CNL).
 
 Passionné depuis 40 ans par les médecines complémentaires, il se réjouit de vous accueillir au CNL à partir du 3 septembre 2018.
 

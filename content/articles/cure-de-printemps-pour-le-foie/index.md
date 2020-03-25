@@ -7,7 +7,7 @@ thumbnail:
     image: feature.jpg
 ---
 
-**_Fabienne Jordan-Grossrieder, Naturopathe – Nutritionniste_**
+**_Fabienne Grossrieder, Naturopathe – Nutritionniste_**
 
 Le printemps arrive avec ses fleurs et sa douceur. C’est la saison du renouveau et il est bon que ce le soit aussi pour notre corps.
 

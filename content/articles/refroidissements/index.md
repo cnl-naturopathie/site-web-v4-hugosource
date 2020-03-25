@@ -7,7 +7,7 @@ thumbnail:
     image: feature.jpg
 ---
 
-**_Fabienne Jordan-Grossrieder, Naturopathe – Nutritionniste_**
+**_Fabienne Grossrieder, Naturopathe – Nutritionniste_**
 
 L’hiver bat son plein et les refroidissements aussi. Cela fait partie du cycle naturel pourrait-on croire. Alors pourquoi chaque année, les « méchants virus d’hiver » sont-ils si coupables et les malades si victimes ? Est-ce la faute à pas de chance ?
 

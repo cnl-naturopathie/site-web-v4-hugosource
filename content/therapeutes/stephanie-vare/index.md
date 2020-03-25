@@ -18,7 +18,7 @@ thumbnail:
     desc: Stéphanie Varé
 ---
 
-<img class="alignright size-full" alt="Stéphanie Varé" src="./images/stephanie-vare-200x200.jpg" width="200" />J’ai le plaisir de vous annoncer ma collaboration avec Fabienne Jordan-Grossrieder à Romanel au Centre de Naturopathie Lausanne (CNL).
+<img class="alignright size-full" alt="Stéphanie Varé" src="./images/stephanie-vare-200x200.jpg" width="200" />J’ai le plaisir de vous annoncer ma collaboration avec Fabienne Grossrieder à Romanel au Centre de Naturopathie Lausanne (CNL).
 
 Après une formation de base d’assistante en pharmacie, j’ai travaillé durant 14 ans dans le domaine des assurances maladie. Maman de trois enfants, j’ai décidé de faire une pause à la naissance de ma petite dernière. Une période de transition qui m’a permis de me réorienter vers un nouvel avenir professionnel.
 

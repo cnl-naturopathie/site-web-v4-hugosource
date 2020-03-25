@@ -8,7 +8,7 @@ thumbnail:
     image: feature.jpg
 ---
 
-**_Fabienne Jordan-Grossrieder, Naturopathe – Nutritionniste_**
+**_Fabienne Grossrieder, Naturopathe – Nutritionniste_**
 
 ## Rester en pleine forme toute la saison froide
 
