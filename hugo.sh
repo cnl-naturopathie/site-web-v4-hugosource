@@ -73,7 +73,7 @@ github)
         cd $OUT_PATH
         git add .
         git commit -m "$COMMENT"
-        git push
+        # git push
     fi
     echo -e "\n### COMMENTAIRE = $COMMENT"
     ;;
