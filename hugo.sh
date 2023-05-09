@@ -96,10 +96,10 @@ s3)
         --baseURL="http://nicocnl.s3-website-eu-west-1.amazonaws.com/"
     ;;
 
-fenix)
-    OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-github/"
+localhost)
+    OUT_PATH="$HOME/Sites/cnl-naturopathie/site-web-v4/"
     hugo                                        \
-        --baseURL="http://192.168.1.124:8080/"  \
+        --baseURL="http://192.168.1.209:4000/"  \
         --theme cnl-spirit                      \
         --destination=$OUT_PATH
     ;;
@@ -107,6 +107,7 @@ fenix)
 *)
     echo "IP = $IP"
     echo "PORT = $PORT"
+    echo "http://$IP:$PORT/"
     hugo server                 \
         --baseURL="http://$IP/" \
         --bind=$IP              \
