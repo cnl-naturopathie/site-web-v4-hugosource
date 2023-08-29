@@ -2,7 +2,7 @@
 title: Stéphanie Varé
 author: nico
 date: 2020-03-08
-draft: false
+draft: true
 weight: 3
 infos:
     image: stephanie-vare-150x150.jpg
