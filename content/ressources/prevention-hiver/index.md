@@ -10,6 +10,10 @@ thumbnail:
 
 **_Fabienne Grossrieder, Naturopathe – Nutritionniste_**
 
+Revenez sur cette page cet hiver pour y découvrir mes derniers conseils pour rester en pleine forme toute la saison froide.
+
+<!--
+
 ## Rester en pleine forme toute la saison froide
 
 « Mieux vaut prévenir que guérir ». C’est le but de cet article. La santé n’est jamais acquise et doit être au centre de nos priorités. Nous ne sommes pas tous égaux vis-à-vis de la maladie, mais rien n’arrive par hasard, même quand nous « tombons » malades.
@@ -83,3 +87,6 @@ Chaque fois que le nez coule,  nez  sec, gorge sèche ou irritée ou que vous av
 <p style="margin-top: 5em;"></p>
 
 Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br /> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison... <span style="text-align: right; display: block; margin-top: 1em;">automne 2018</span>
+
+
+-->
