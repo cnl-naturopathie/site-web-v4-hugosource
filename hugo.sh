@@ -39,7 +39,11 @@ done
 case "$1" in
 
 github)
-    OUT_PATH="$HOME/Sites/cnl-naturopathie/site-web-v4/"
+    OUT_PATH="$HOME/kdnicomac/sites/cnl-naturopathie/site-web-v4/"
+    if [[ ! -d "$OUT_PATH" ]]; then
+        echo "$OUT_PATH doesn’t exists. Bye!"
+        exit 1
+    fi
     # rm -rf $OUT_PATH # !! Ne pas effacer le répertoire .git !!
     echo "Génération des fichiers GitHub"
 
